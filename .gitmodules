@@ -3,4 +3,4 @@
 	url = https://github.com/snsumit/pdf_next_
 [submodule "Utility_tool"]
 	path = Utility_tool
-	url = git@github.com:snsumit/Utility_tool.git
+	url = https://github.com/snsumit/Utility_tool
